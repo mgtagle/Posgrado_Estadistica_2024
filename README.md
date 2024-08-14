@@ -1,2 +1,7 @@
-# Posgrado_Estadistica_2024
-Material del curso de Posgrado de Experimentación y Métodos Estadísticos
+# Posgrado Estadística 2024
+Material del curso de Experimentación y Métodos Estadísticos
+
+## Contenido
+
++ Semana 1: Introducción
++ Semana 2: Creación repositori Github
