@@ -5,4 +5,4 @@ Material del curso de Experimentación y Métodos Estadísticos
 
 + Semana 1: Introducción
 + Semana 2: Creación repositori Github
-+ Semana 3: Proxima semana
++ Semana 3: Proxima semana actualizar
