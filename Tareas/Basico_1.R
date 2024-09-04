@@ -12,6 +12,7 @@
 altura <- c(8, 12, 3, 5, 9)
 altura
 
+# Interpretar los resultados por 3
 altura * 3
 
 # Segundos ----------------------------------------------------------------
